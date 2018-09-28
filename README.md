@@ -57,3 +57,13 @@ Q9: This time, produce the same result as in Q8, but using a subquery.
 Q10: Produce a list of facilities with a total revenue less than 1000.
 The output of facility name and total revenue, sorted by revenue. Remember
 that there's a different cost for guests and members!
+
+
+
+Answers:
+
+Available on the "sql-project.sql" file.
+
+Tables:
+
+Available on separate files (Members, Facilities and Bookings)
